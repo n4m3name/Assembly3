@@ -1,4 +1,4 @@
-# Assembly3
+# AssemblyController
 
 Assignment 3 of CSC230 - Intro to Computer Architecture at UVic, written in AVR Assembly
 
